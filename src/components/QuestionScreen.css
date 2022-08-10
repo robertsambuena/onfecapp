@@ -1,0 +1,5 @@
+.question-screen {
+  text-align: center;
+  padding: 16px 16px;
+  flex-direction: column;
+}

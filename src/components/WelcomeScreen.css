@@ -1,0 +1,10 @@
+.welcome-screen {
+  position: relative;
+  text-align: center;
+  padding: 16px 16px;
+}
+
+.welcome-screen__bg {
+  position: absolute;
+  clip: rect(0, 100px, 200px, 0);
+}
