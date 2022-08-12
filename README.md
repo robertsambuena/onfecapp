@@ -1,3 +1,19 @@
+# On running quiz app MVP
+
+Please run `yarn` to install
+Please run `yarn start` to deploy locally
+
+Notes:
+  - Apologies for no tests, it's outage week in my work 😢
+  - Happy to discuss all the approach on how to improve this piece of code!
+
+Screenshots:
+<img width="295" alt="Screenshot 2022-08-12 at 15 49 44" src="https://user-images.githubusercontent.com/4904145/184367738-a57698ba-14e9-4a52-a851-469887a0ca72.png">
+![Uploading Screenshot 2022-08-12 at 15.49.52.png…]()
+![Uploading Screenshot 2022-08-12 at 15.50.10.png…]()
+![Uploading Screenshot 2022-08-12 at 15.50.18.png…]()
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -26,6 +42,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
