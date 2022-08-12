@@ -1,10 +1,12 @@
 # On running quiz app MVP
 
 Please run `yarn` to install
+
 Please run `yarn start` to deploy locally
 
+
 Notes:
-  - Apologies for no tests, it's outage week in my work 😢
+  - Apologies for no tests, it's outage week at my work 😢
   - Happy to discuss all the approach on how to improve this piece of code!
 
 Screenshots:
