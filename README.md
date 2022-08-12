@@ -8,10 +8,16 @@ Notes:
   - Happy to discuss all the approach on how to improve this piece of code!
 
 Screenshots:
+
 <img width="295" alt="Screenshot 2022-08-12 at 15 49 44" src="https://user-images.githubusercontent.com/4904145/184367738-a57698ba-14e9-4a52-a851-469887a0ca72.png">
-![Uploading Screenshot 2022-08-12 at 15.49.52.png…]()
-![Uploading Screenshot 2022-08-12 at 15.50.10.png…]()
-![Uploading Screenshot 2022-08-12 at 15.50.18.png…]()
+<img width="295" alt="Screenshot 2022-08-12 at 15 49 52" src="https://user-images.githubusercontent.com/4904145/184376399-373b378a-078e-4541-aec9-5029f0767f86.png">
+<img width="293" alt="Screenshot 2022-08-12 at 15 50 10" src="https://user-images.githubusercontent.com/4904145/184376415-c0b01e7f-fe1f-4af5-a1e3-0c71cfb83e47.png">
+<img width="293" alt="Screenshot 2022-08-12 at 15 50 18" src="https://user-images.githubusercontent.com/4904145/184376423-cd2f133e-1038-4d32-90d2-06715462e7c6.png">
+
+
+
+
+
 
 
 # Getting Started with Create React App
